@@ -6,3 +6,5 @@ main_radialTimeLapse.m provides information on how to run the code and parameter
 
 To create a radial timelapse, adjacent sectors of consecutive images are combined to create a composite image.
 Different time-angle relationships are possible such as linear, exponential, logarithmic, etc. to slow-down or accelerate time in the timelapse image.
+
+Cite this: Lilin, Paul, and Irmgard Bischofberger. "Shattered to pieces: Cracks in drying drops." Physical Review Fluids 7.11 (2022): 110505.
